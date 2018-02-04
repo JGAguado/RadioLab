@@ -1,0 +1,58 @@
+Part Value               Device                  Package             Description                                 MF MPN OC_FARNELL OC_NEWARK
+ANT  SMA_EDGE            SMA_EDGE                SMA-EDGE            SMA Antenna Connector                                                  
+C1   1uF                 C-USC0402               C0402               CAPACITOR, American symbol                                             
+C2   8.2pF               C-USC0402               C0402               CAPACITOR, American symbol                                             
+C3   8.2pF               C-USC0402               C0402               CAPACITOR, American symbol                                             
+C4   100nF               C-USC0402               C0402               CAPACITOR, American symbol                                             
+C5   100nF               C-USC0402               C0402               CAPACITOR, American symbol                                             
+C6   100nF               C-USC0402               C0402               CAPACITOR, American symbol                                             
+C7   100nF               C-USC0402               C0402               CAPACITOR, American symbol                                             
+C8   100nF               C-USC0402               C0402               CAPACITOR, American symbol                                             
+C9   22pF                C-USC0402               C0402               CAPACITOR, American symbol                                             
+C10  10nF                C-USC0402               C0402               CAPACITOR, American symbol                                             
+C11  1nF                 C-USC0402               C0402               CAPACITOR, American symbol                                             
+C12  1.0pF               C-USC0402               C0402               CAPACITOR, American symbol                                             
+C13  22pF                C-USC0402               C0402               CAPACITOR, American symbol                                             
+C14  33nF                C-USC0402               C0402               CAPACITOR, American symbol                                             
+C15  2.2nF               C-USC0402               C0402               CAPACITOR, American symbol                                             
+C16  4.7pF               C-USC0402               C0402               CAPACITOR, American symbol                                             
+C17  1.5pF               C-USC0402               C0402               CAPACITOR, American symbol                                             
+C18  10uF                CAP_POL1206             EIA3216             Capacitor Polarized                                                    
+L1   3.9nH               INDUCTOR0402            C0402               Inductors                                                              
+L2   2.7nH               INDUCTOR0402            C0402               Inductors                                                              
+L3   8.2nH               INDUCTOR0402            C0402               Inductors                                                              
+LED1 Green               LEDSML0603              SML0603             LED                                                                    
+LED2 Blue                LEDSML0603              SML0603             LED                                                                    
+LED3 Yellow              LEDSML0603              SML0603             LED                                                                    
+LED4 Yellow              LEDSML0603              SML0603             LED                                                                    
+Q1   16MHz               CRYSTAL5X3              CRYSTAL-SMD-5X3     Crystals                                                               
+R1   1k                  R-US_R0402              R0402               RESISTOR, American symbol                                              
+R2   1k                  R-US_R0402              R0402               RESISTOR, American symbol                                              
+R3   22                  R-US_R0402              R0402               RESISTOR, American symbol                                              
+R4   22                  R-US_R0402              R0402               RESISTOR, American symbol                                              
+R5   470                 R-US_R0402              R0402               RESISTOR, American symbol                                              
+R6   470                 R-US_R0402              R0402               RESISTOR, American symbol                                              
+R7   22K                 R-US_R0402              R0402               RESISTOR, American symbol                                              
+R8   1M                  R-US_R0402              R0402               RESISTOR, American symbol                                              
+R9   10k                 R-US_R0402              R0402               RESISTOR, American symbol                                              
+RA1  RESISTOR_ARRAY_8PIN RESISTOR_ARRAY_8PIN     CRA12E                                                                                     
+S1   A6S-5104-H          A6S-5104-H              A6S-5104-H                                                                                 
+S2   Reset               SWITCH-MOMENTARY-2SMD-4 TACTILE_SWITCH_TALL Various NO switches- pushbuttons, reed, etc                            
+SV1  USB                 USB-RECEPTABLE          FCI-10103594-0001LF USB Receptable                                                         
+SV2                      MA08-2                  MA08-2              PIN HEADER                                         unknown    unknown  
+U$1  PIN_PAD_CIRCLE_R50  PIN_PAD_CIRCLE_R50      PAD_5MM                                                                                    
+U$2  PIN_PAD_CIRCLE_R50  PIN_PAD_CIRCLE_R50      PAD_5MM                                                                                    
+U$3  PIN_PAD_CIRCLE_R50  PIN_PAD_CIRCLE_R50      PAD_5MM                                                                                    
+U$4  PIN_PAD_CIRCLE_R50  PIN_PAD_CIRCLE_R50      PAD_5MM                                                                                    
+U$5  PIN_PAD_CIRCLE_R50  PIN_PAD_CIRCLE_R50      PAD_5MM                                                                                    
+U$6  PIN_PAD_CIRCLE_R50  PIN_PAD_CIRCLE_R50      PAD_5MM                                                                                    
+U$7  PIN_PAD_CIRCLE_R50  PIN_PAD_CIRCLE_R50      PAD_5MM                                                                                    
+U$8  PIN_PAD_CIRCLE_R50  PIN_PAD_CIRCLE_R50      PAD_5MM                                                                                    
+U$9  PIN_PAD_CIRCLE_R50  PIN_PAD_CIRCLE_R50      PAD_5MM                                                                                    
+U$10 PIN_PAD_CIRCLE_R50  PIN_PAD_CIRCLE_R50      PAD_5MM                                                                                    
+U$11 PIN_PAD_CIRCLE_R50  PIN_PAD_CIRCLE_R50      PAD_5MM                                                                                    
+U$12 PIN_PAD_CIRCLE_R50  PIN_PAD_CIRCLE_R50      PAD_5MM                                                                                    
+U1   ATMEGA32U4-AU       ATMEGA32U4-AU           TQFP44              http://www.ladyada.net/library/eagle                                   
+U2   V_REG_LDOSMD        V_REG_LDOSMD            SOT23-5             Voltage Regulator LDO                                                  
+U3   NRF24L01SMD         NRF24L01SMD             QFN20               2.4GHz Low Power Transceiver                                           
+X3   16MHz               CRYSTAL'5032'           2P-SMD-5X3.2        CRYSTAL                                                                

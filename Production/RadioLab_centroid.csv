@@ -1,0 +1,52 @@
+Screaming Circuits SMD component position file.
+Created by Centroid_ScreamingCircuits_smd.ulp 1.2.0.
+
+Centroid Data for pc board: "RadioLab.brd" as of: 05/02/2018 0:45:22
+Measurements are in inches. Comma delimited
+Only surface mount components included
+
+RefDes,Layer,LocationX,LocationY,Rotation
+ANT,Top,1.472,1.500,0
+C1,Top,0.870,0.622,0
+C2,Bottom,1.421,0.102,0
+C3,Bottom,1.240,0.098,180
+C4,Top,0.909,0.827,0
+C5,Top,1.319,0.984,0
+C6,Top,1.516,0.984,0
+C7,Top,1.705,1.004,270
+C8,Top,1.701,0.902,0
+C9,Bottom,1.122,0.917,270
+C10,Bottom,1.697,1.063,180
+C11,Bottom,1.362,0.921,270
+C12,Bottom,1.512,1.327,90
+C13,Bottom,1.122,1.067,90
+C14,Bottom,1.697,0.937,180
+C15,Bottom,1.283,1.185,90
+C16,Bottom,1.350,1.185,90
+C17,Bottom,1.630,1.327,90
+C18,Top,1.846,1.024,90
+L1,Bottom,1.571,1.224,180
+L2,Bottom,1.417,1.185,90
+L3,Bottom,1.476,1.185,90
+LED1,Top,1.236,0.094,180
+LED2,Top,1.567,1.110,180
+LED3,Top,0.512,0.118,90
+LED4,Top,0.984,0.118,90
+Q1,Bottom,1.236,0.992,90
+R1,Bottom,0.512,0.118,270
+R2,Bottom,0.984,0.118,90
+R3,Top,0.768,0.724,180
+R4,Top,0.906,0.724,180
+R5,Bottom,1.110,0.138,90
+R6,Top,1.567,1.059,180
+R7,Bottom,1.717,0.992,180
+R8,Bottom,1.362,1.051,90
+R9,Bottom,0.831,0.429,90
+RA1,Bottom,2.528,0.539,90
+S1,Top,2.165,0.748,0
+S2,Top,0.744,0.425,0
+SV1,Top,0.748,0.039,0
+U1,Top,1.354,0.610,270
+U2,Bottom,1.697,1.181,180
+U3,Bottom,1.496,1.000,90
+X3,Bottom,1.358,0.287,180
